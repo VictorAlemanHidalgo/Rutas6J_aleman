@@ -5,7 +5,7 @@
 - Pantalla 2
 ![image](https://github.com/user-attachments/assets/536f9e24-ed12-4556-90af-c7e268cdfbda)
 - Pantalla 3
-- ![image](https://github.com/user-attachments/assets/2a90e818-5fbf-47d8-83f0-ff7bddc9bf6d)
+![image](https://github.com/user-attachments/assets/2a90e818-5fbf-47d8-83f0-ff7bddc9bf6d)
 
 
 A new Flutter project created with FlutLab - https://flutlab.io
